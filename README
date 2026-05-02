@@ -1,0 +1,13 @@
+README
+
+Pri tvorbe tohoto projektu jsem vyuzivala AI predevsim pro konzultaci a vyhodnoceni meho napadu a take pro kontrolu, zda pri psani kodu splnuji vsechny pozadavky zadani.
+
+AI jsem dale pouzivala pro vyhledavani prikazu, kontrolu napsaneho kodu a celkove vyhodnoceni projektu. Castecne byla vyuzita i pro pomoc s formulaci nekterych textu.
+
+Pri reseni jsem se inspirovala webovou strankou Landa Norrise (odkaz), pricemz jsem se snazila jeho koncept zjednodusit a prizpusobit vlastnimu reseni.
+
+Praci jsem zacala navrhem a strukturou HTML kodu, kde jsem se vice zamerila na funkcionalitu nez na velikost kodu.
+
+V CSS jsem casto vyhledavala a porovnavala ruzne pristupy a take jsem se ptala AI ohledne fontu a jejich implementace. Snazila jsem se psat kod co nejjednoduseji, ale zaroven tak, aby byla stranka alespon zakladne responzivni, proto jsem pouzila i media queries a dalsi nastroje.
+
+V JavaScriptu jsem nejcasteji vyuzivala dostupne materialy a AI pro lepsi porozumeni jazyka a jeho pouziti v projektu.
