@@ -7,6 +7,7 @@ body {
     background-color: #eceae4;
     color: #041E42;
     overflow-x: hidden;
+    cursor: pointer;
 }
 header {
     position: relative;
@@ -69,7 +70,7 @@ p {
     z-index: 1;
     opacity: 0.9;
 }
-.hero h1 a, .hero h1 a:visited, .hero h1 a:hover, .hero h1 a:active, .hero h1 a:focus {
+.hero h1 a {
     color: inherit;
     text-decoration: none;
 }
